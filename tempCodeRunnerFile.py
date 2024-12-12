@@ -1,0 +1,1 @@
+ventana.iconbitmap('img/farmacia_ico.ico')
